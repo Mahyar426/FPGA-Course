@@ -1,0 +1,5 @@
+verilog work "Q1_2.v"
+verilog work "Q1_1.v"
+verilog work "my_top.v"
+verilog work "test_top.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
