@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Mahyar Onsori/Desktop/check nevis taklif 4/hope/q1/test_top_isim_beh.exe" -prj "C:/Users/Mahyar Onsori/Desktop/check nevis taklif 4/hope/q1/test_top_beh.prj" "work.test_top" "work.glbl" 
